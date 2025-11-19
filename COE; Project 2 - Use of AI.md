@@ -133,7 +133,7 @@ with open('label_map.json', 'w') as f: json.dump({0:'no_damage', 1:'damage'}, f)
 [9]. Tool: ChatGPT
 Prompt: Help me structure my Part 4 report and tell me where to change tone to keep it more professional without changing technical content.
 Output:
-  Outline: Data Prep → Models (with motivation) → Evaluation → Deployment Note → Conclusion; keep numbers precise and concise.
+  Outline: Data Prep, Models (with motivation), Evaluation, Deployment Note; keep numbers precise and concise.
 Code usage:
 ```text
 Narrative guidance only; I wrote, verified, and formatted all content myself.
