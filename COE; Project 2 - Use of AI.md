@@ -138,16 +138,3 @@ Code usage:
 ```text
 Narrative guidance only; I wrote, verified, and formatted all content myself.
 ```
-
-[10]. Tool: ChatGPT
-Prompt: Draft a brief AI‑use disclosure for the top of my notebook and the report.
-Output:
-  Two–three sentences noting AI assistance for concept discussion, debugging, and editorial polish; code is mine; usage complies with course policy.
-Code example (markdown blurb in the first cell of the notebook):
-```markdown
-**Use of AI.** I used ChatGPT to discuss design choices, interpret errors, and polish wording.
-All code was written and run by me. I verified any suggestions and made final decisions myself,
-consistent with the course AI policy.
-```
-
--- End of document --
