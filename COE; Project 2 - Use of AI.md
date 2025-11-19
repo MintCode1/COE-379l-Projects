@@ -1,12 +1,10 @@
 
-Use of AI
+COE; Project 2 - Use of AI
 ---------
-Course: COE 379L — Project 3 (Damage vs. No-Damage Classification)
-Student: Mahin Naveen
-Date: 2025-11-19
+Mahin Naveen; COE 379L — Project 3 (Damage vs. No-Damage Classification)
 
-This document lists instances where I used ChatGPT. Each entry includes: **Tool**, **Prompt**, **Output**, and a **small code example** I wrote based on that guidance.  
-In my notebook, I reference entries with inline comments like: `# See Use of AI [N]`.
+This document shows all the places where I used ChatGPT. Each entry includes: **Tool**, **Prompt**, **Output**, and a **small code example** I wrote based on that guidance.  
+In my notebook, I reference entries with inline comments like: `# See Use of AI`.
 
 [1]. Tool: ChatGPT
 Prompt: How should I handle a ~2:1 class imbalance with tf.data? Class weights vs. oversampling?
